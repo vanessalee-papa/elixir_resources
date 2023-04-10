@@ -1,6 +1,6 @@
 # Videos
 
-## Erlang
+## Erlang, Beam, OTP
 
 * [Joe Armstrong • "The Mess We're In" by Joe Armstrong - StrangeLoop 2014](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Joe Armstrong • Keynote: The Forgotten Ideas in Computer Science - Code BEAM SF 2018](https://www.youtube.com/watch?v=-I_jE0l7sYQ&list=PLvL2NEhYV4ZsIjT55t-kxylCU0BRlQjpl&index=3)
@@ -9,7 +9,8 @@
 * [Zandra Norman • Scaling Distributed Erlang • ElixirConfEu 2016](https://www.youtube.com/watch?v=usEs3GPnZDg)
 * [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [Joe Armstrong • The Do's and Don'ts of Error Handling • GOTO 2018](https://www.youtube.com/watch?v=TTM_b7EJg5E)
-* [Joe Armstrong & Alan Kay • Interview](https://www.youtube.com/watch?v=fhOHn9TClXY)
+* [Joe Armstrong & Alan Kay • Interview](https://www.youtube.com/watch?v=fhOHn9TClXY)7
+* [Jesse Anderson • Intro to OTP in Elixir](https://www.youtube.com/watch?v=CJT8wPnmjTM)
 
 ## Functional Programming 
 
@@ -24,6 +25,8 @@
 * [Fred Hebert • The Hitchhiker's Guide to the Unexpected - Code BEAM SF 2018](https://www.youtube.com/watch?v=W0BR_tWZChQ)
 * [Bryan Hunter • What every Node.js developer needs to know about Elixir](https://www.youtube.com/watch?v=q8wueg2hswA)
 * [Dave Thomas • Think Different • Elixir Conf 2014](https://www.youtube.com/watch?v=5hDVftaPQwY)
+* [Dave Thomas & Andy Hunt • Anniversary Edition of The Pragmatic Programmer • GOTO 2020](https://www.youtube.com/watch?v=taCNjiiusRk)
+* [Greg Vaughn • Elixir Elevated: The Ups & Downs of OTP](https://www.youtube.com/watch?v=R_8ehmGTVbw)
 
 ## Phoenix
 
